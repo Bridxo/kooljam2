@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sleep_type">
+        <item>▶▶▶▶모드 선택</item>
+        <item>Type 1 : 꿀잠모드</item>
+        <item>Type 2 : 자각몽모드</item>
+    </string-array>
+</resources>
